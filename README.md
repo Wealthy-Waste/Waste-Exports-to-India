@@ -8,3 +8,7 @@ https://tradingeconomics.com/sri-lanka/exports/india/waste-scrap-paper-paperboar
 2. Australia Exports to India of Lead waste and scrap
 
 https://tradingeconomics.com/australia/exports/india/lead-waste-scrap
+
+3. Australia Exports to India of Zinc waste and scrap
+
+https://tradingeconomics.com/australia/exports/india/zinc-waste-scrap
